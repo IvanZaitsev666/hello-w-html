@@ -21,7 +21,7 @@ a:hover {
 a:active {
   color: rgb(0, 255, 94);
 }
-.button{
+button{
   margin-left: 10px;
 }
 .cat{
@@ -29,9 +29,9 @@ a:active {
   display: block;
   margin-left: auto;
 }
-.button:hover{
+button:hover{
   color: rgb(255, 0, 115);
 }
-.button:active{
+button:active{
   color: rgb(0, 255, 94);
 }
