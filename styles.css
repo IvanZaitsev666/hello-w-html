@@ -24,11 +24,7 @@ a:active {
 button{
   margin-left: 10px;
 }
-.cat{
-  margin-top: 10px;
-  display: block;
-  margin-left: auto;
-}
+
 button:hover{
   color: rgb(255, 0, 115);
 }
