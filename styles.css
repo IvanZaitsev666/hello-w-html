@@ -1,16 +1,4 @@
-body {
-    max-width: 600px;
-    max-width: auto;
-    font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: antiquewhite;
-}
-
-h1 .homework {
-    text-align: center;
-}
-.cat {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.container {
+display: grid;
+place-items: center;
 }
